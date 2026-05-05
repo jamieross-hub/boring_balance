@@ -5,7 +5,7 @@ Boring Balance is a personal finance tracker built for privacy. It runs locally 
 ![Boring Balance dashboard preview in a MacBook frame](docs/images/head.png)
 
 ---
-
+ 
 ## Why Boring Balance Exists
 
 This app was built for people who want a simpler, more private way to manage their money.
